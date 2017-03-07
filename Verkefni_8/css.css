@@ -1,0 +1,67 @@
+body {
+	text-align: center;
+	width: 900px;
+	margin: 0 auto;
+}
+
+#container {
+	padding: 5px;
+  border: 1px solid black;
+  margin: 5px auto;
+}
+
+.spurningar {
+  cursor: default;
+  border: 1px solid black;
+  margin: 2px auto;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
+
+#svar0 {
+  cursor: pointer;
+  border: 1px solid black;
+  margin: 2px auto;
+}
+
+#svar1 {
+  cursor: pointer;
+  border: 1px solid black;
+  margin: 2px auto;
+}
+
+#svar2 {
+  cursor: pointer;
+  border: 1px solid black;
+  margin: 2px auto;
+}
+
+#svar3 {
+  cursor: pointer;
+  border: 1px solid black;
+  margin: 2px auto;
+}
+
+#d {
+  height:100px;
+  width:500px;
+  padding:10px;
+  border:1px solid blue;
+  background-color:lightblue;
+  cursor:pointer;
+  margin: 0 auto;
+}
+#p {
+  background-color:pink;
+  cursor:pointer;
+}
+#s {
+  background-color:orange;
+  cursor:pointer;
+}
